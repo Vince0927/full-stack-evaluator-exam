@@ -44,3 +44,7 @@ desktop.ini
 # === Logs ===
 logs/
 *.log
+
+# === Private Documentation (DO NOT COMMIT) ===
+PRIVATE_NOTES.md
+TESTING_GUIDE.md
